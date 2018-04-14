@@ -3,7 +3,7 @@
 # These Python scripts are for educational purposes only! 
 #                                                         
 
-sploitbee.py - this is used to exploit a vulnerable service within beebox.
+sploitbee.py - this is used to exploit a vulnerable service within beebox. 
 
 Reference:
 https://sourceforge.net/projects/bwapp/files/bee-box/
