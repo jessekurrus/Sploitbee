@@ -1,6 +1,6 @@
 #
 #                                                         
-# These Python scripts are for educational purposes only! 
+# This Python script is for educational purposes only! 
 #                                                         
 
 sploitbee.py - this is used to exploit a vulnerable service within beebox. 
